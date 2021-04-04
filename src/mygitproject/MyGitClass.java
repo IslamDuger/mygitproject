@@ -8,6 +8,7 @@ public class MyGitClass {
 		System.out.println("Version 1");
 		
 		System.out.println("version2");
+		System.out.println("version mesaji");
 	}
 
 
