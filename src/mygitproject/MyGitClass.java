@@ -11,7 +11,12 @@ public class MyGitClass {
 		System.out.println("Uzak version mesaji");
 		int sayi=10;		
 		System.out.println("yasin bey version mesaji");
+
 		
+
+		System.out.println("yasin bey version mesaji22");
+		System.out.println("selam millet");
+
 	}
 
 
