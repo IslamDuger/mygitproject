@@ -21,6 +21,10 @@ public class MyGitClass {
 		String selam="Az kaldi";
 		double sd=12.3;
 		System.out.println("Yeni branch");
+		System.out.println("merhaba millet");
+		String selmam="as";
+		
+		
 		
 		
 
