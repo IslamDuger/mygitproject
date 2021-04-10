@@ -19,6 +19,8 @@ public class MyGitClass {
 		int millet=2;
 		System.out.println(millet);
 		String selam="Az kaldi";
+		double sd=12.3;
+		System.out.println("Yeni branch");
 		
 		
 
