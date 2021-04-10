@@ -18,6 +18,8 @@ public class MyGitClass {
 		System.out.println("selam millet");
 		int millet=2;
 		System.out.println(millet);
+		String selam="Az kaldi";
+		
 		
 
 
